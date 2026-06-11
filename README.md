@@ -75,21 +75,16 @@ cd PhishBoot
 
 ### 2. Install Dependencies
 
-```bash id="phishboot3"
-pip install -r requirements.txt
+
 ```
-
-If `requirements.txt` is not available:
-
-```bash id="phishboot4"
-pip install streamlit pandas numpy scikit-learn xgboost joblib
+pip install streamlit 
 ```
 
 ---
 
 ### 3. Run Application
 
-```bash id="phishboot5"
+```
 streamlit run phishing_gui.py
 ```
 
