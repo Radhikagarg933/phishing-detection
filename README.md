@@ -67,8 +67,8 @@ PhishBoot/
 ### 1. Clone Repository
 
 ```bash id="phishboot2"
-git clone https://github.com/Radhikagag933/Phishing-detection.git
-cd PhishBoot
+git clone https://github.com/Radhikagag933/phishing-detection.git
+cd phishing-detection
 ```
 
 ---
